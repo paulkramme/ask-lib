@@ -18,5 +18,6 @@ int main(void)
 		ask_for_quit();
 	}
 	puts("Cool!\nProgram will exit anyway. Have fun.");
+	ask_for_quit();
 	return 0;
 }
